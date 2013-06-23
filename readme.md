@@ -61,7 +61,7 @@ making applications talk to each other. I like making things work.
    trucking company. Scraped EZPass website using Perl into CSV, built reports in Excel using VBA.
 
 **Purnell School** - Pottersville, NJ - Alternative Girls Boarding High School  
-2006/07 - 2012/10 / Contract Engineer
+2006/03 - 2012/10 / Contract Engineer
 
  * Designed and implemented ESX Server for hosting internal applications, consolidating 8 physical
    servers into a single unit.
