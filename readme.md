@@ -49,9 +49,8 @@ making applications talk to each other. I like making things work.
 2004/08 - 2007/08 / Production Artist
 
  * Automated workflow of Art Department using Perl, Bash and Applescript saving each artist hours per
-   day and overall improving life in the art department. Automation included preflighting procedures
-   and procedures for sending files to vendors (tagging, building PO and composing emails or burning
-   CDs/DVDs)
+   day and overall improving life in the art department. Automation included procedures for preflighting
+   and sending files to vendors (tagging, building PO and composing emails or burning CDs/DVDs)
  * Built FTP server for customers to upload artwork using Gentoo Linux. Included log parser (written in
    Perl) to notify of new uploads, seamless integration to their website with a web frontend for uploading
    files and including custom messages to the appropriate salesperson. Server ran for over 3 years
