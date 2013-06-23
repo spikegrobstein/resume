@@ -11,10 +11,11 @@ making applications talk to each other. I like making things work.
 ## Skills
 
  * Linux (Debian/Ubuntu/Gentoo), OSX Server, BeOS, Windows 2003
- * Certified Expert in Adobe Photoshop and Illustrator.
+ * Firewalls, Bind, Chef, nginx
  * PostgreSQL, MySQL, Redis, Marklogic Server
  * Ruby, C, Bash, Applescript, Python, PHP, XQuery, plpgsql, ObjC, Javascript, Perl, Java
  * Offset printing, color separations, color correction, screenprinting, embroidery
+ * Certified Expert in Adobe Photoshop and Illustrator.
 
 ## Experience
 
