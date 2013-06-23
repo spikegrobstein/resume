@@ -80,7 +80,7 @@ making applications talk to each other. I like making things work.
 
 ## Noteworthy Side Projects
 
-**Flatiron School** -- `http://www.flatironschool.com`  
+**Flatiron School** - `http://www.flatironschool.com`  
 I've been invited for 3 consecutive classes to give a guest lecture on basic Linux systems administration
 and application deployment. Lecture outline is available on my GitHub profile.
 
