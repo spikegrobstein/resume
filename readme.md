@@ -71,10 +71,10 @@ making applications talk to each other. I like making things work.
    authentication server using an LDAP gem. Supported over 250 users.
  * Implemented Moodle for student course management and homework tracking that tied into the same
    ActiveDirectory authentication server as the Merits app.
- * Built application in PHP that would seamlessly tie into Moodle and Merits to ease importation of
-   new students via CSV file.
+ * Built application in PHP that would seamlessly tie into Moodle and Merits to ease import of
+   new student accounts via CSV file.
  * All above sites used the same look and feel as the school's intranet, leveraging modern HTML and
-   CSS techniques and sharing templates.
+   CSS techniques and sharing templates and graphical assets.
 
 *Additional Experience available on request*
 
