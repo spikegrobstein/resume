@@ -33,20 +33,20 @@
  * Architected and implemented application for collecting and reporting on data from the internet using
    Kapow, PHP (wrappers for collection agents), Rails (Frontend/CnC/Reporting), MySQL (orchestration
    datastore), Marklogic (online datastore), NEC HYDRAstor (offline/nearline storage of collected data).
-   Collected and processed over 500GB of XML over a 2-year period. Saved millions of dollars over
-   3rd party solutions.
- * Investigated and reverse engineered software for applications designed for copyright infringement
-   (eg: Limewire, etc) to determine risk, technologies and extent of violations.
- * Determined and implemented procedures for video encoding server farm of XServes; built scripts to
-   manage/audit versions of libraries and initial configuration of servers using Ruby, designed and
-   documented procedures for NetRestore of servers for disaster recovery.
+   Collected and processed over 500GB of XML over a 2-year period. Application paid for itself over the
+   first month of operation.
+ * Investigated and reverse engineered software for applications and services designed for copyright
+   infringement (eg: Limewire, etc) to determine risk, technologies and extent of violations.
+ * Described and implemented procedures for configuring and managing video encoding server farm of XServes;
+   built scripts to manage/audit versions of libraries and initial configuration of servers using Ruby,
+   designed and documented procedures for NetRestore of servers for disaster recovery.
 
 **National Flag & Display** - New York City, NY - Flag and Banner production company  
 2004/08 - 2007/08 / Production Artist
 
- * Automated workflow of Art Department using Perl, Bash and Applescript saving each artist hours per
-   day and overall improving life in the art department. Automation included procedures for preflighting
-   and sending files to vendors (tagging, building PO and composing emails or burning CDs/DVDs)
+ * Automated Art Department workflows using combination of Perl, Bash and Applescript saving each artist
+   hours per day and overall improving life in the art department. Automation included procedures for
+   preflighting and sending files to vendors (tagging, building PO and composing emails or burning CDs/DVDs).
  * Built FTP server for customers to upload artwork using Gentoo Linux. Included log parser (written in
    Perl) to notify of new uploads, seamless integration to their website with a web frontend for uploading
    files and including custom messages to the appropriate salesperson. Server ran for over 3 years
