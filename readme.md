@@ -1,12 +1,7 @@
+# Spike Grobstein
 
-
-    Spike Grobstein  |  me@spike.cx       |  908.803.8995
-    Hoboken, NJ      |  spike.grobste.in  |  GitHub: spikegrobstein
-
-## Objective
-
-I like systems. I like programming languages. I like high performance. I like building tools and
-making applications talk to each other. I like making things work.
+    me@spike.cx      |  Cell: 908.803.8995     |  
+    Hoboken, NJ      |  Web: spike.grobste.in  |  GitHub: spikegrobstein
 
 ## Skills
 
@@ -37,13 +32,14 @@ making applications talk to each other. I like making things work.
 
  * Architected and implemented application for collecting and reporting on data from the internet using
    Kapow, PHP (wrappers for collection agents), Rails (Frontend/CnC/Reporting), MySQL (orchestration
-   datastore), Marklogic (online datastore), NEC HYDRAstor (offline/nearline storage of collected data),
-   which ran for 2 years, saving and making the company millions of dollars every month.
+   datastore), Marklogic (online datastore), NEC HYDRAstor (offline/nearline storage of collected data).
+   Collected and processed over 500GB of XML over a 2-year period. Saved millions of dollars over
+   3rd party solutions.
  * Investigated and reverse engineered software for applications designed for copyright infringement
    (eg: Limewire, etc) to determine risk, technologies and extent of violations.
  * Determined and implemented procedures for video encoding server farm of XServes; built scripts to
    manage/audit versions of libraries and initial configuration of servers using Ruby, designed and
-   documented procedures for NetRestore of servers.
+   documented procedures for NetRestore of servers for disaster recovery.
 
 **National Flag & Display** - New York City, NY - Flag and Banner production company  
 2004/08 - 2007/08 / Production Artist
