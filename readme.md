@@ -20,8 +20,9 @@
  * Profiled and optimized API through better SQL queries and better Ruby code
  * Refactored inventory importer to properly handle UTF8 and improve import performance dramatically
  * Led migration of production site from pure AWS infrastructure to local datacenter
- * Architected and implemented infrastructure in new environment with new deployment tools (capistrano),
-   monitoring (scoutapp.com) and configuration management (Chef)
+ * Architected and implemented infrastructure in new environment with new deployment tools
+   (custom Capistrano recipes for deployment and other common tasks), monitoring (scoutapp.com) and
+   configuration management (Chef).
  * Built Scout plugins in Ruby for monitoring unsupported processes and services including alerts for
    customer balance tracking and internal Postgres metrics
  * Built Resque plugin (with monkey-patched Resque) for monitoring queue latency. Latency is defined as
