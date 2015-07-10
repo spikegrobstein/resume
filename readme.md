@@ -1,7 +1,9 @@
 # Spike Grobstein
 
-    me@spike.cx      |  Cell: 908.803.8995     |  
-    Hoboken, NJ      |  Web: spike.grobste.in  |  GitHub: spikegrobstein
+    me@spike.cx       |  Cell: 908.803.8995     |  
+    San Francisco, CA |  Web: spike.grobste.in  |  GitHub: spikegrobstein
+
+> It is not OK to contact me regarding employment opportunies for either full-time or contract work.
 
 ## Skills
 
@@ -13,9 +15,14 @@
  * Certified Expert in Adobe Photoshop and Illustrator.
 
 ## Experience
+**Apple Inc** - Cupertino, CA - Hardware and Software
+2015/01 - present / Frontend Operations Engineer
+
+**Shutterstock** - New York, NY - Stock photo/video/audio platform
+2013/08 - 2015/01 / Infrastructure Engineer
 
 **Ticket Evolution** - Jersey City, NJ - SaaS provider for online event ticket sales  
-2012/01 - present / Sr DevOps Engineer
+2012/01 - 2013/08 / Sr DevOps Engineer
 
  * Profiled and optimized API through better SQL queries and better Ruby code
  * Refactored inventory importer to properly handle UTF8 and improve import performance dramatically
