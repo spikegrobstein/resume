@@ -3,7 +3,7 @@
     me@spike.cx       |  Cell: 908.803.8995     |  
     San Francisco, CA |  Web: spike.grobste.in  |  GitHub: spikegrobstein
 
-> It is not OK to contact me regarding employment opportunies for either full-time or contract work.
+> It is **NOT OK** to contact me regarding employment opportunies for either full-time or contract work.
 
 ## Skills
 
