@@ -84,7 +84,7 @@
 ## Noteworthy Side Projects
 
 **Flatiron School** - `http://www.flatironschool.com`  
-I've been invited for 3 consecutive classes to give a guest lecture on basic Linux systems administration
+I've been invited for 4 consecutive classes to give a guest lecture on basic Linux systems administration
 and application deployment. Lecture outline is available on my GitHub profile.
 
 **mcwrapper** - `https://github.com/spikegrobstein/mcwrapper`  
