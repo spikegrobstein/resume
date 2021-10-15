@@ -5,9 +5,9 @@
 
 > It is **NOT OK** to contact me regarding employment opportunies for either full-time or contract work.
 
-## Skills
+## Selected Skills
 
- * Linux (Debian/Ubuntu/Gentoo), OSX Server, BeOS, Windows 2003
+ * Linux (Debian/Ubuntu/Gentoo), macOS, BeOS
  * Firewalls, Bind, Chef, nginx, Docker, Apache Webserver
  * PostgreSQL, MySQL, Redis, Marklogic Server
  * Bash (expert), Rust, Swift, Javascript/Typescript, Applescript, Ruby, C, Python, PHP, XQuery, plpgsql, ObjC, Perl, Java
