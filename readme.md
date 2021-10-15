@@ -15,14 +15,14 @@
  * Certified Expert in Adobe Photoshop and Illustrator.
 
 ## Experience
-**Apple Inc** - Cupertino, CA - Hardware and Software
+**Apple Inc** - Cupertino, CA - Hardware, Software and Services
 
-* 2015-01 &rarr; 2021-10 / Frontend Operations Engineer
-* 2021-10 &rarr; present / Frontend Operations Architect
+* 2015-01 &rarr; 2021-10 / Frontend Operations Engineer (Marcom)
+* 2021-10 &rarr; present / Frontend Operations Architect (Marcom)
 
 **Shutterstock** - New York, NY - Stock photo/video/audio platform
 
-* 2013-08 &rarr; 2015-01 / Infrastructure Engineer
+* 2013-08 &rarr; 2015-01 / Infrastructure Engineer (Infrastructure Team)
 
 As a member of the Infrastructure team, besides typical day-to-day tasks and being part of the on-call rotation, I contributed personally in the following areas:
 
@@ -51,7 +51,7 @@ The sole systems engineer, I maintained the infrastructure and configuration tha
    how long it took the last job in the queue to run from the time it was queued.
 
 **Warner Music Group** - New York City, NY - Major Record Label  
-2007-08 &rarr; 2011-12 / Digital Technology Architect
+2007-08 &rarr; 2011-12 / Digital Technology Architect (Strategic Technology Group)
 
  * Architected and implemented application for collecting and reporting on data from the internet using
    Kapow, PHP (wrappers for collection agents), Rails (Frontend/CnC/Reporting), MySQL (orchestration
@@ -65,7 +65,7 @@ The sole systems engineer, I maintained the infrastructure and configuration tha
    designed and documented procedures for NetRestore of servers for disaster recovery.
 
 **National Flag & Display** - New York City, NY - Flag and Banner production company  
-2004-08 &rarr; 2007-08 / Production Artist
+2004-08 &rarr; 2007-08 / Production Artist (Art Department)
 
  * Automated Art Department workflows using combination of Perl, Bash and Applescript saving each artist
    hours per day and overall improving life in the art department. Automation included procedures for
@@ -80,7 +80,7 @@ The sole systems engineer, I maintained the infrastructure and configuration tha
    trucking company. Scraped EZPass website using Perl into CSV, built reports in Excel using VBA.
 
 **Purnell School** - Pottersville, NJ - Alternative Girls Boarding High School  
-2006-03 &rarr; 2012-10 / Contract Engineer
+2006-03 &rarr; 2012-10 / Contract Engineer (IT Department)
 
  * Designed and implemented ESX Server for hosting internal applications, consolidating 8 physical
    servers into a single unit.
