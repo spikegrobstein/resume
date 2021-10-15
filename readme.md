@@ -8,21 +8,36 @@
 ## Skills
 
  * Linux (Debian/Ubuntu/Gentoo), OSX Server, BeOS, Windows 2003
- * Firewalls, Bind, Chef, nginx
+ * Firewalls, Bind, Chef, nginx, Docker, Apache Webserver
  * PostgreSQL, MySQL, Redis, Marklogic Server
- * Ruby, C, Bash, Applescript, Python, PHP, XQuery, plpgsql, ObjC, Javascript, Perl, Java
+ * Bash (expert), Rust, Swift, Javascript/Typescript, Applescript, Ruby, C, Python, PHP, XQuery, plpgsql, ObjC, Perl, Java
  * Offset printing, color separations, color correction, screenprinting, embroidery
  * Certified Expert in Adobe Photoshop and Illustrator.
 
 ## Experience
 **Apple Inc** - Cupertino, CA - Hardware and Software
-2015/01 - present / Frontend Operations Engineer
+
+* 2015-01 - 2021/10 / Frontend Operations Engineer
+* 2021-10 - present / Frontend Operations Architect
 
 **Shutterstock** - New York, NY - Stock photo/video/audio platform
-2013/08 - 2015/01 / Infrastructure Engineer
+
+* 2013/08 - 2015/01 / Infrastructure Engineer
+
+As a member of the Infrastructure team, besides typical day-to-day tasks and being part of the on-call rotation, I contributed personally in the following areas:
+
+* Led training sessions for teaching systems engineers Ruby and other programming skills so they could be more effective at contributing to our projects
+* Built interactive map frontend webapp for finding and navigating the new office, helping folks find each other and conference rooms more easily
+* Maintained Puppet manifests for > 3000 node production/qa/dev infrastructure
+* Architected and built prototype Configuration Management DB + Chef cookbook collection including API design, server and client libraries with distributed, multi-datacenter ElasticSearch backend
+* Rewrote Deployment Ruby/Sinatra/EventMachine service to enable faster, safer deployments by improving error detection, untangling async code and rework code that blocked the event loop
+* Built interactive TUI to Neon - our Dashboard/alert system in Ruby + Curses to improve the experience for engineers. We could see these alerts from a terminal instead of requiring looking up at TVs or opening a web browser
 
 **Ticket Evolution** - Jersey City, NJ - SaaS provider for online event ticket sales  
-2012/01 - 2013/08 / Sr DevOps Engineer
+
+* 2012/01 - 2013/08 / Sr DevOps Engineer
+
+The sole systems engineer, I maintained the infrastructure and configuration that powered our platform, ensuring maxiumum uptime, consistent deployments, responsive API and easy access for developers to troubleshoot errors.
 
  * Profiled and optimized API through better SQL queries and better Ruby code
  * Refactored inventory importer to properly handle UTF8 and improve import performance dramatically
